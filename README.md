@@ -24,7 +24,7 @@ nginx-poc/
 
 1. Clone the github repository
 ```
-git clone https://github.com/satpal82bhandari/nginx-poc.git
+git clone https://github.com/Turbo-Nishant/Nginx-docker-poc.git
 cd nginx-poc
 ```
 
